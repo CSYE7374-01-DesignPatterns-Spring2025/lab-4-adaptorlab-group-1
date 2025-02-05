@@ -11,7 +11,8 @@ public class Driver {
 		System.out.println("============Main Execution Start===================\n\n");
 
          //Add your code in between these two print statements
-		 
+
+		POSClient.runAdapterDemo();
 		System.out.println("\n\n============Main Execution End===================");
 	}
 
