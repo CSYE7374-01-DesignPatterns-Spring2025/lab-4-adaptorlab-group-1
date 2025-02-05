@@ -9,6 +9,7 @@ public class Calculator implements CalculatableAPI {
             case MULT: return a * b;
             case DIV: return a / b;
             default: throw new IllegalArgumentException();
+                
             
         }
     }
